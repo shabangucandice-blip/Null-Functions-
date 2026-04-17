@@ -9,4 +9,4 @@ Applied the principles of null functions through focused, 'unplugged' practice. 
 
 Exercise 2.2
 Timestamps
-In systems where multiple updates occur simultaneously, timestamps act as a tie-breaker. By comparing the exact time of each event, the system can deterministically decide which data is the most recent and should be preserved, effectively resolving conflicts in collaborative environments or distributed databases. Enjoyed exploring the topic and applying the concept in exercise 2.2 for practice.
+In systems where multiple updates occur simultaneously, timestamps act as a tie-breaker. By comparing the exact time of each event, the system can deterministically decide which data is the most recent and should be preserved, effectively resolving conflicts in collaborative environments or distributed databases. Enjoyed exploring the topic and applying the concept in exercise 2.2 as practice.
