@@ -4,7 +4,7 @@ BrightLearn Weekly exercises
 Exercise 2.1 
 
 Null Functions 
-Applied the principles of null functions through focused, 'unplugged' practice. I utilized manual pen-and-paper modeling to deconstruct core logic, mapping out precise syntax for every event to validate my structural understanding. This rigorous approach served as a comprehensive self-assessment, ensuring my theoretical knowledge translates into reliable, error-free code.
+Applied the principles of null functions through focused, 'unplugged' practice. I utilised manual pen-and-paper modeling to deconstruct core logic, mapping out precise syntax for every event to validate my structural understanding. This rigorous approach served as a comprehensive self-assessment, ensuring my theoretical knowledge translates into reliable, error-free code.
 
 
 Exercise 2.2
